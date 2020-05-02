@@ -1,6 +1,8 @@
 # gateway-challenge-backend
-run npm install
-run npm run dev
+
+1 run npm install
+
+2 run npm run dev
 
 server is running in http://localhost:3000/
 
